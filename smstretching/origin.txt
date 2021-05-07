@@ -1,0 +1,248 @@
+Uri: https://smstretching.ru/
+File Name: c:\Downloaded Web Sites\smstretching.ru\index.htm
+Content Type: text/html
+
+Uri: https://smstretching.ru/about
+File Name: c:\Downloaded Web Sites\smstretching.ru\about.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/membership
+File Name: c:\Downloaded Web Sites\smstretching.ru\membership.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/trainings
+File Name: c:\Downloaded Web Sites\smstretching.ru\trainings.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/timetables
+File Name: c:\Downloaded Web Sites\smstretching.ru\timetables.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/live
+File Name: c:\Downloaded Web Sites\smstretching.ru\live.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/personal_training
+File Name: c:\Downloaded Web Sites\smstretching.ru\personal_training.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/marathon
+File Name: c:\Downloaded Web Sites\smstretching.ru\marathon.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/app
+File Name: c:\Downloaded Web Sites\smstretching.ru\app.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/health
+File Name: c:\Downloaded Web Sites\smstretching.ru\health.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/cdn-cgi/l/email-protection
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/job
+File Name: c:\Downloaded Web Sites\smstretching.ru\job.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/corp
+File Name: c:\Downloaded Web Sites\smstretching.ru\corp.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/blogsm
+File Name: c:\Downloaded Web Sites\smstretching.ru\blogsm.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://smstretching.ru/live-apply
+File Name: c:\Downloaded Web Sites\smstretching.ru\live-apply.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/cdn-cgi/styles/cf.errors.css
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://smstretching.ru/cdn-cgi/scripts/zepto.min.js
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\scripts\zepto.min.js
+Content Type: application/javascript
+
+Uri: https://smstretching.ru/cdn-cgi/scripts/cf.common.js
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\scripts\cf.common.js
+Content Type: application/javascript
+
+Uri: https://smstretching.ru/coach
+File Name: c:\Downloaded Web Sites\smstretching.ru\coach.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/admin
+File Name: c:\Downloaded Web Sites\smstretching.ru\admin.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/office
+File Name: c:\Downloaded Web Sites\smstretching.ru\office.html
+Content Type: text/html
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-300.eot
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-300.eot?
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-300.woff
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-300.woff
+Content Type: application/font-woff
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-300.ttf
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-300.bin
+Content Type: application/octet-stream
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-300.svg
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-300.svg
+Content Type: image/svg+xml
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-400.eot
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-400.eot?
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-400.woff
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-400.woff
+Content Type: application/font-woff
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-400.ttf
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-400.bin
+Content Type: application/octet-stream
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-400.svg
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-400.svg
+Content Type: image/svg+xml
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-600.eot
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-600.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-600.eot?
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-600-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-600.woff
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-600.woff
+Content Type: application/font-woff
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-600.ttf
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-600.bin
+Content Type: application/octet-stream
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-600.svg
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-600.svg
+Content Type: image/svg+xml
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-700.eot
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-700.eot?
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-700-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-700.woff
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-700.woff
+Content Type: application/font-woff
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-700.ttf
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-700.bin
+Content Type: application/octet-stream
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-700.svg
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-700.svg
+Content Type: image/svg+xml
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-300i.eot
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-300i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-300i.eot?
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-300i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-300i.woff
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-300i.woff
+Content Type: application/font-woff
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-300i.ttf
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-300i.bin
+Content Type: application/octet-stream
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-300i.svg
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-300i.svg
+Content Type: image/svg+xml
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-400i.eot
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-400i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-400i.eot?
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-400i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-400i.woff
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-400i.woff
+Content Type: application/font-woff
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-400i.ttf
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-400i.bin
+Content Type: application/octet-stream
+
+Uri: https://smstretching.ru/cdn-cgi/styles/fonts/opensans-400i.svg
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\styles\fonts\opensans-400i.svg
+Content Type: image/svg+xml
+
+Uri: https://smstretching.ru/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://smstretching.ru/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://smstretching.ru/cdn-cgi/images/browser-bar.png?1376755637
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://smstretching.ru/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://smstretching.ru/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://smstretching.ru/cdn-cgi/images/cf-icon-ok.png
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://smstretching.ru/cdn-cgi/images/cf-icon-error.png
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://smstretching.ru/cdn-cgi/images/cf-icon-browser.png
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://smstretching.ru/cdn-cgi/images/cf-icon-cloud.png
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://smstretching.ru/cdn-cgi/images/cf-icon-server.png
+File Name: c:\Downloaded Web Sites\smstretching.ru\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
